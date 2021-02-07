@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "scripts": {
+    "develop": "gridsome develop",
+    "explore": "gridsome explore",
+    "build": "gridsome build"
+  },
+  "dependencies": {
+    "@chakra-ui/vue": "0.3.6",
+    "emotion": "10.0.27",
+    "gridsome": "^0.7.13"
+  },
+  "keywords": [],
+  "name": "seltame-startpage-chakra-gridsome",
+  "description": ""
+}
